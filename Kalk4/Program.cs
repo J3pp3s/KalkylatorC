@@ -7,7 +7,7 @@ namespace Kalk4
     {
         static void Main(string[] args)
         {
-            //Ger konsollen gul text och grå bakgrundsfärg
+            //Ger konsollen gul text och ger konsollen en grå bakgrundsfärg
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.BackgroundColor = ConsoleColor.DarkGray;
             Console.Clear();
